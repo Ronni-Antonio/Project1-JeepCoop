@@ -13,7 +13,8 @@
     "next": "16.2.7",
     "react": "19.2.4",
     "react-dom": "19.2.4",
-    "stellar-sdk": "^13.3.0"
+    "stellar-sdk": "^13.3.0",
+    "@stellar/stellar-sdk": "npm:stellar-sdk@^13.3.0"
   },
   "devDependencies": {
     "@tailwindcss/postcss": "^4",
